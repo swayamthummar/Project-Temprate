@@ -16,7 +16,7 @@ main()
             if (n%i==0) 
 			{
                 ans = 1;
-                break;
+              
             }
         }
         if (ans == 0) 
